@@ -1,1 +1,1 @@
-# mary
+# 👋 Entusiasta da programação apaixonada por transformar ideias em código. Explorando tecnologias e buscando soluções eficientes. Defensora do trabalho em equipe, colaboração e código aberto. Sempre em busca de aprendizado contínuo. Compartilhando projetos e contribuições no GitHub. Disponível para colaborações e projetos emocionantes. Happy coding! 💻🚀
