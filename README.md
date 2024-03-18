@@ -1,5 +1,13 @@
-# 👋 Entusiasta da programação apaixonada por transformar ideias em código. Explorando tecnologias e buscando soluções eficientes. Defensora do trabalho em equipe, colaboração e código aberto. Sempre em busca de aprendizado contínuo. Compartilhando projetos e contribuições no GitHub. Disponível para colaborações e projetos emocionantes. Happy coding! 💻🚀
+# Maria Facão
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este obra está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Atribuição-NãoComercial 4.0 Internacional</a>.
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maria_falcao0/)
+## Olá pessoal 👋
+Sou apaixonada pelo que faço, que no caso é programar, resolver problemas e ver pessoas usando as soluções que desenvolvi. Sou uma desenvolvedora backend atualmente estudando Node.JS, porém gosto de brincar com ReactJS.
+
+ :rocket:  &nbsp; Estou trabalhando na **Agility**
+ <br/> :purple_heart: &nbsp; Busco sempre colaborar na parte de back-end das aplicações que o time desenvolve.
+ <br/> :blush: &nbsp; Usando os princípios do SOLID com Node.Js e Express.
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, Call of Duty series e animes.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-mariafalcao0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-falcao0/)](https://www.linkedin.com/in/maria-falcao0/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-mariafalcao-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:falcaomaria72@gmail.com)](mailto:falcaomaria72@gmail.com)
